@@ -1,6 +1,6 @@
 # tdd-practice
 
-isntall
+install
 ---
 
 1. brew install java
